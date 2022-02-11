@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGMT2/static/css/main.9b2f0f10.css",
+    "main.js": "/LGMT2/static/js/main.5b7af22b.js",
+    "static/js/787.edd59a96.chunk.js": "/LGMT2/static/js/787.edd59a96.chunk.js",
+    "index.html": "/LGMT2/index.html",
+    "main.9b2f0f10.css.map": "/LGMT2/static/css/main.9b2f0f10.css.map",
+    "main.5b7af22b.js.map": "/LGMT2/static/js/main.5b7af22b.js.map",
+    "787.edd59a96.chunk.js.map": "/LGMT2/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2f0f10.css",
+    "static/js/main.5b7af22b.js"
+  ]
+}
